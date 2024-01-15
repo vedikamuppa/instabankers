@@ -56,18 +56,19 @@ GO TO DATA PROTECTION AND CREATE BACKUP VAULT AND POLICY AND ASSIGN ROLES :
 
 ![image](https://github.com/vedikamuppa/instabankers/assets/150030197/7f842f54-2b72-4c0a-9d1d-be80309eafb2)
 
-CREATE YOUR RESOURCE BY SELECTING CUSTOM QUESTION AND ANSWERING :
+NOW OPEN LANGUAGE FILE IN RESOURCE GROUP :
 
-![image](https://github.com/vedikamuppa/instabankers/assets/150030197/cb259e90-c5a1-4927-9ba5-b9996b2abda2)
+![image](https://github.com/vedikamuppa/instabankers/assets/150030197/ea5b896e-eaa2-402f-a822-6ebed1544f33)
+CREATE YOUR RESOURCE BY SELECTING CUSTOM QUESTION AND ANSWERING:
+
+![image](https://github.com/vedikamuppa/instabankers/assets/150030197/569fd2fb-b664-4f3b-9654-f9e707d3c405)
 
 GO TO RESOURCE :
 
 ![image](https://github.com/vedikamuppa/instabankers/assets/150030197/624b4f63-6150-43d8-8334-78f28ab1873a)
+NOW OPEN LANGUAGE FILE IN RESOURCE GROUP:
 
-NOW OPEN LANGUAGE FILE IN RESOURCE GROUP :
-
-![image](https://github.com/vedikamuppa/instabankers/assets/150030197/0fd57ccb-1f13-4ec4-bf59-5a1e632e0089)
-
+![image](https://github.com/vedikamuppa/instabankers/assets/150030197/40a058c5-051e-4775-a26e-9457590eddbe)
 NOW GO TO LANGUAGE STUDIO AND SIGNIN WITH YOUR ACCOUNT :
 
 ![image](https://github.com/vedikamuppa/instabankers/assets/150030197/63709f8b-f914-42b3-844a-c466426f3121)
@@ -104,10 +105,6 @@ NOW OPEN LANGUAGE BOT FILE :
 
 ![image](https://github.com/vedikamuppa/instabankers/assets/150030197/0401309c-1613-4a7b-a88c-ceeedd188bc3)
 
-NOW OPEN TEST IN WEBCHAT AND TEST OUR LIVE WEBCHAT RESPONSE :
-
-![image](https://github.com/vedikamuppa/instabankers/assets/150030197/96837672-c44a-4f43-9f21-ef0bc3c19c41)
-
 NOW GO TO CHANNELS AND OPEN WEBCHAT AND COPY EMBEDDED CODE :
 
 ![image](https://github.com/vedikamuppa/instabankers/assets/150030197/bee85723-156f-4237-b196-1c11a7c51909)
@@ -119,7 +116,11 @@ NOW GOTO CONTAINERS AND OPEN OUR CHATBOT.HTML AND REPLACE EMBEDDED CODE AND SECR
 ![image](https://github.com/vedikamuppa/instabankers/assets/150030197/1a568051-538e-47a8-b925-22592c0a7735)
 
 ![image](https://github.com/vedikamuppa/instabankers/assets/150030197/4f00b063-bd2c-4cde-800d-6b1306d40e1e)
+NOW OPEN TEST IN WEBCHAT AND TEST OUR LIVE WEBCHAT RESPONSE:
 
+![image](https://github.com/vedikamuppa/instabankers/assets/150030197/ae8811ad-2298-4ed4-9ed4-c45fc137729b)
+
+![image](https://github.com/vedikamuppa/instabankers/assets/150030197/4f7b4399-6b65-4d40-86e1-b55436dcd899)
 NOW GOTO STATIC WEBSITE AND COPY URL AND PASTE IT IN NEW WEBTAB :
 
 ![image](https://github.com/vedikamuppa/instabankers/assets/150030197/831a4ced-abf9-4b38-b362-7c99482bc1b8)
@@ -128,10 +129,9 @@ OUR WEBSITE IS RUNNING SUCCESSFULLY AND WE CAN SEE VARIOUS TABS :
 
 ![image](https://github.com/vedikamuppa/instabankers/assets/150030197/8e556648-880c-4f37-b20f-7c747a3149b1)
 
-![image](https://github.com/vedikamuppa/instabankers/assets/150030197/173a95a4-c659-4bb2-b135-3de545fed141)
+![image](https://github.com/vedikamuppa/instabankers/assets/150030197/297f02eb-ab6b-4513-a73e-8c57764c69d5)
 
-![image](https://github.com/vedikamuppa/instabankers/assets/150030197/d328c6e9-fb8c-42c2-ba76-7c352d6d6caf)
-
+![image](https://github.com/vedikamuppa/instabankers/assets/150030197/dd4b1f6d-6fc7-429d-862a-4841f9619790)
 NOW WE CAN USE CHATBOT IN OUR WEBSITE :
 
 ![image](https://github.com/vedikamuppa/instabankers/assets/150030197/33532a83-7b69-45c7-abe7-322b28315da1)
