@@ -22,11 +22,11 @@ Insta bankers are a new type of financial institution that operates primarily th
 <p align="justify">In Insta Banker, also known as a social media banker or digital banker, is a financial professional who utilizes social media platforms to provide banking services to customers. They leverage the reach and engagement capabilities of social media to connect with customers, offer personalized financial advice, and facilitate transactions. Insta bankers typically handle a wide range of banking tasks, including:.</p><br>
 <b>Key Features :</b>
 <ul>
-    <li>1.Opening and managing accounts: Insta bankers assist customers in opening new accounts, transferring funds, and managing their finances online.</li>
-    <li>2.Providing financial advice: They offer personalized financial guidance to customers, helping them make informed decisions about their savings, investments, and loans.</li>
-    <li>3.Processing transactions: Insta bankers facilitate various transactions, such as payments, deposits, and withdrawals, through secure social media channels.</li>
-    <li>4.Resolving customer issues: They address customer concerns promptly and efficiently, ensuring a positive banking experience.</li>
-    <li>5.Promoting financial literacy: Insta bankers educate customers on financial matters, enhancing their understanding of personal finance.</li>
+    <li>Opening and managing accounts: Insta bankers assist customers in opening new accounts, transferring funds, and managing their finances online.</li>
+    <li>Providing financial advice: They offer personalized financial guidance to customers, helping them make informed decisions about their savings, investments, and loans.</li>
+    <li>Processing transactions: Insta bankers facilitate various transactions, such as payments, deposits, and withdrawals, through secure social media channels.</li>
+    <li>Resolving customer issues: They address customer concerns promptly and efficiently, ensuring a positive banking experience.</li>
+    <li>Promoting financial literacy: Insta bankers educate customers on financial matters, enhancing their understanding of personal finance.</li>
 </ul>
 <h2>Core Azure Services</h2>
 <b>Azure Blob storage :</b><br><p align="justify"><br>Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network. Azure Storage Account Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management data.</p>
