@@ -5,7 +5,7 @@
 <br>Shrikanth :Content Collection</br>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b>https://instabankers43.z13.web.core.windows.net/<br>
-<b>Demo Video URL :</b>https://youtube.com/watch?v=4Lq8ZHM9d8w&feature=shared<br>
+<b>Demo Video URL :</b>https://instabankers43.z13.web.core.windows.net/<br>
 <b>Github Repository URL :</b>https://github.com/vedikamuppa/instabankers<br>
 <b>Industry :</b> Lifestyle <br>
 <h2>Azure Services Used</h2>
